@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Awab Azhari from Sudan I'm 20 years old and I'm currently learning full stack web development, and have some skills in python. 
+Hi I'm Awab Azhari from Sudan I'm 21 years old and I'm currently learning full stack web development, and have some skills in python. 
 
 
 ## 🌐 Socials:
